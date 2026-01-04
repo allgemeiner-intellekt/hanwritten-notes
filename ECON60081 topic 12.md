@@ -71,7 +71,7 @@ $$\dot{x} = F(x)$$
 
 An equilibrium point $x^*$ occurs where the rate of change is zero:
 
-$$F(x^*) = 0 \implies x = x^* \text{ is a constant solution.}$$
+$$F(x^{\*}) = 0 \implies x = x^\* \text{ is a constant solution.}$$
 
 To determine the stability of an equilibrium $x^*$, we examine $F'(x^*)$:
 
